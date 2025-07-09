@@ -52,15 +52,7 @@ The application automatically saves your tasks to tasks.json in the same directo
 Tasks are stored in tasks.json with the following structure for each task:
 
 json
-{
-  "id": 1,
-  "title": "Example task",
-  "description": "This is an example",
-  "due_date": "2023-12-31T00:00:00",
-  "completed": false,
-  "created_at": "2023-10-15T14:30:00.123456",
-  "completed_at": null
-}
+![image](https://github.com/user-attachments/assets/6fd6bbc0-e94b-4915-bf9f-f26d9320381d)
 
 ## Contributing
 
