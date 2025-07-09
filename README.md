@@ -52,6 +52,7 @@ The application automatically saves your tasks to tasks.json in the same directo
 Tasks are stored in tasks.json with the following structure for each task:
 
 json
+
 ![image](https://github.com/user-attachments/assets/6fd6bbc0-e94b-4915-bf9f-f26d9320381d)
 
 ## Contributing
