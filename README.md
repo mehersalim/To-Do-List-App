@@ -8,13 +8,13 @@ A simple command-line To-Do List application written in Python that helps you ma
 
 ## Features
 
-- ✅ Add new tasks with titles, descriptions, and due dates
-- 📝 View all your pending tasks in an organized list
-- ✔️ Mark tasks as completed
-- 🗑️ Delete tasks you no longer need
-- 💾 Automatic saving of tasks to a JSON file for persistence
-- 📅 Optional due dates with validation
-- ⏲️ Timestamps for task creation and completion
+- Add new tasks with titles, descriptions, and due dates
+- View all your pending tasks in an organized list
+- Mark tasks as completed
+- Delete tasks you no longer need
+- Automatic saving of tasks to a JSON file for persistence
+- Optional due dates with validation
+- Timestamps for task creation and completion
 
 ## Installation
 
@@ -47,8 +47,8 @@ todo-cli/
 
 ## Requirements
 
-  - Python 3.6+
-  - No external dependencies required
+- Python 3.6+
+- No external dependencies required
 
 ## Data Storage
 
