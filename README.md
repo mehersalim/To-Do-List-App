@@ -40,10 +40,7 @@ The application automatically saves your tasks to tasks.json in the same directo
 
 ## File Structure
 
-todo-cli/
-├── README.md           # This documentation file
-├── todo.py             # Main application script
-└── tasks.json          # Auto-generated task storage file
+![image](https://github.com/user-attachments/assets/b2637d66-50d3-4a81-8bec-fb6618c697c5)
 
 ## Requirements
 
