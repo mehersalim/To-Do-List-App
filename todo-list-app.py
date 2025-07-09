@@ -1,8 +1,11 @@
 """
-To-Do List Application (Command Line Interface Version)
-This script allows users to manage tasks through a simple command line interface.
-Features include adding, viewing, completing, and deleting tasks.
-Tasks are saved to a file for persistence between sessions.
+Developer: Meher Salim
+Filename: todo-list-app.py
+Project Name: To-Do List Application (Command Line Interface Version)
+Description:
+- This script allows users to manage tasks through a simple command line interface.
+- Features include adding, viewing, completing, and deleting tasks.
+- Tasks are saved to a file for persistence between sessions.
 """
 
 import os
